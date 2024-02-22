@@ -8,6 +8,8 @@ In Faculty Portal you have to register first before login other wise you can't u
 In Student Portal you have to register first before login other wise you can't use Student Portal, in Student portal you can register subjects, check your attendance and check your subjects marks 
 This project also contains simple graphpics, you don't have to download the files to use graphics as i have already added them into the project, you just need to configure them into the project so for that use this guide https://www.youtube.com/watch?v=YfMQyOw1zik
 
+Screen_Shots: 
+
 
 
 ![image](https://github.com/bloodlustwraith/CMS-Portal/assets/139685237/23327dc7-52f8-42ac-8bd4-7d7ad40afd4c)
